@@ -1,2 +1,4 @@
 # data-mining-projects
-Some data mining projects I did in course of Data Mining in Fudan U
+data mining projects I did in `R` in course of Data Mining in Fudan U (the content is in Chinese!)
+
+This is really an 'Amazing' course ...
